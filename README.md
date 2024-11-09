@@ -1,6 +1,4 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+"Thanks to @GreatStackDev, I learned how to clone YouTube by following the tutorial on this channel, using React and APIs."
 
 Currently, two official plugins are available:
 
